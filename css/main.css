@@ -1,0 +1,146 @@
+/*
+
+1. Background Color
+2. Scroll Bar Color
+*/
+
+body {
+	background-color: #111111;
+	font-family: Iceland;
+	color: #fff;
+}
+
+/*SCROLLBAR START*/
+body::-webkit-scrollbar {
+  width: 1em;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: #333333;
+  
+}
+
+/*SCROLLBAR END*/
+a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+}
+
+.link-icons {
+	text-decoration: none;
+	color: #ffffff;
+	text-align: left;
+}
+
+.link-icons:hover {
+	text-decoration: none;
+	color: #00ff00;
+}
+
+
+.web-title{
+	font-size: 55px;
+}
+
+.tab-title {
+	color: #00ff00;
+	font-weight: bold;
+}
+
+.nav-link {
+	color: #00ff00;
+}
+.nav-link:hover {
+	color: #ff0000;
+}
+
+.nav-pills {
+	color: #000000;
+}
+
+.toast {
+	background-color: #232323;
+}
+.toast-body {
+	background-color: #222222;
+}
+
+.toast-header {
+	background-color: #030303;
+	color: #00ff00;
+	font-size: 15px;
+}
+
+.close {
+	color: #fff;
+}
+
+.members {
+	margin: 15px 15px 15px 15px;
+}
+.card-members {
+	background-color: #222222;
+	margin: 15px 15px 15px 15px;
+	align-content: center;
+
+}
+
+.badge {
+	font-size: 15px;
+}
+
+.card-title {
+	font-size: 30px;
+	padding-top: 10px;
+}
+
+.modal-header {
+	background-color: #222222;
+}
+
+.modal-body {
+	background-color: #343a40;
+}
+
+.modal-footer {
+	background-color: #222222;
+}
+
+.main-modal {
+	border: 1px #333333 ;
+}
+
+.border-modal {
+	border: 1px solid #333333;
+}
+
+.background {
+  filter: blur(4px);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.foreground {
+  backdrop-filter: blur(3px);
+}
+
+.qr-btc {
+	height: auto;
+	width: 260px;
+	align-items: center;
+}
+
+.btc-address {
+	margin-top: 5px;
+	width: 260px;
+}
+
+.copy-btn {
+	margin-top: 5px;
+}

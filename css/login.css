@@ -1,0 +1,129 @@
+.frame {
+	max-width: 28rem;
+	max-height: auto;
+	display: block;
+	padding-top: 5px;
+}
+
+footer {
+			text-align: center;
+			font-family: consolas, monaco, monospace;
+			padding-bottom: 10px;
+			font-size: 10px;
+      color: #fff;
+      padding-top: 8px;
+	}
+
+.logo {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 75px;
+		width: 125px;
+    border: 3px solid #00ff00;
+    border-radius: 50%;
+    border-color: #4ac003;
+}
+
+
+.login-form {
+	background-color: #111111;
+	color: #fff;
+	font-family: consolas, monaco, monospace;
+  border-color: #4ac003;
+}
+
+.login-form-body {
+	background-color: #232323;
+	color: #fff;
+	font-family: consolas, monaco, monospace;
+}
+
+.login-form-footer {
+	background-color: #232323;
+	color: #fff;
+	font-family: consolas, monaco, monospace;
+}
+
+.label-pass {
+	padding-top: 10px;
+}
+
+input:hover {
+  border-color: #405162;
+}
+input:focus {
+  border-color: #4ac003;
+  font-family: consolas, monaco, monospace;
+}
+
+input[type="password"] {
+  border-radius: 2px;
+  background: #232323;
+  border: 1px solid #4ac003;
+  color: #4ac003;
+  cursor: default;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0 16px;
+  height: 36px;
+  font-family: consolas, monaco, monospace;
+}
+input[type="password"]:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  background: #3e3e3e;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  color: #4ac003;
+}
+
+input[type="text"] {
+  border-radius: 2px;
+  background: #232323;
+  border: 1px solid #4ac003;
+  color: #4ac003;
+  cursor: default;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0 16px;
+  height: 36px;
+  font-family: consolas, monaco, monospace;
+}
+input[type="text"]:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  background: #3e3e3e;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  color: #4ac003;
+}
+
+button[type="submit"] {
+  border-radius: 2px;
+  background: #232323;
+  border: 1px solid #4ac003;
+  color: #4ac003;
+  cursor: default;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0 16px;
+  height: 36px;
+}
+button[type="submit"]:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  background: #3e3e3e;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  color: #4ac003;
+}
+
+.title-login	{
+	color: #fff;
+	text-align:center;
+	font-weight: bold;
+	font-family: consolas, monaco, monospace;
+  padding-top: 10px;
+}
+
+.subtitle {
+	color: #fff;
+	text-align:center;
+	font-weight: bold;
+	font-family: consolas, monaco, monospace;
+}

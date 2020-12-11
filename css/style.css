@@ -1,0 +1,60 @@
+body {
+	background-color: #232323;
+}
+.main-frame {
+	max-width: 90rem;
+	height:auto;
+	display: block;
+	padding-top: 20px;
+}
+
+.card {
+	align-self: center;
+}
+
+.card-body {
+	background-color: #232323;
+}
+
+.results-table {
+	max-width: 79.5rem;
+	height: auto;
+	display: block;
+	text-align: center;
+}
+
+.card-header {
+	color: #fff;
+	font-weight: bold;
+}
+.card-footer {
+	background-color: #232323;
+}
+footer {
+			color: #fff;
+			text-align: center;
+			font-family: consolas, monaco, monospace;
+			padding-top: 3px;
+			padding-bottom: 3px;
+			font-size: 12px;
+			font-weight: bold;
+	}
+
+.modal-body {
+	background-color: #222222;
+	color: #fff;
+	font-family: consolas, monaco, monospace;
+}
+
+.modal-header {
+	background-color: #343a40;
+	color: #fff;
+	font-family: consolas, monaco, monospace;
+}
+
+.modal-footer {
+	background-color: #343a40;
+	color: #fff;
+	font-family: consolas, monaco, monospace;
+}
+

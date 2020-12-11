@@ -1,0 +1,112 @@
+body {
+	background-color: #2c3036;
+}
+
+.top-main {
+	max-width: auto;
+	display: block;
+	padding-top: 20px;
+	max-height: auto;
+}
+
+.top-nav-bar {
+	max-width: 30rem;
+	display: block;
+	padding-top: 20px;
+	max-height: auto;
+	align-self: center;
+	border-bottom: 2px solid #4ac003;
+	z-index: 1;
+	margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.main {
+	border: none;
+	z-index: 1;
+
+}
+
+
+.card-header {
+
+	border-bottom: 2px solid #4ac003;
+	background-color: #1f1f1f;
+	z-index: 1;
+
+}
+
+.card-body {
+	color: #fff;
+	background-color: #2c3036;
+	z-index: 1;
+
+}
+
+.header-logo {
+	width: 50px;
+	height: auto;
+	z-index: 1;
+	display: block;
+
+}
+
+.card-img-top {
+	padding-top: 4px;
+	max-width: 15rem;
+	height: auto;
+	align-self: center;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 4px;
+	z-index: 1;
+}
+
+.content {
+	max-width: 30rem;
+	background-color: #2c3036;
+	color: #fff;
+	font-family: consolas, monaco, monospace;
+	z-index: ;
+
+}
+
+.contents {
+	border-top: 2px solid #4ac003;
+	border-bottom: 2px solid #4ac003;
+	border-left: 2px solid #4ac003;
+	border-right: 2px solid #4ac003;
+	background-color: #1e2125;
+	z-index: 1;
+}
+
+.card-footer {
+	background-color: #1e2125;
+	z-index: 1;
+}
+
+.os {
+	width: 12px;
+	height: auto;
+}
+
+a[role="button"] {
+  border-radius: 2px;
+  background: #1e2125;
+  border: 1px solid #4ac003;
+  color: #4ac003;
+  cursor: default;
+  font-size: 14px;
+  font-weight: bold;
+  height: auto;
+
+}
+
+table {
+	max-width: auto;
+	max-height: auto;
+}
+
+
+
